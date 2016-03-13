@@ -5,7 +5,7 @@
 
 ##Install
 
-1. Installing: asdf for linux, brew for osX, chocolatey windows ?
+1. Installing: asdf for linux, brew for osX, installer windows ?
 2. Text editor: gedit? Sublime? Notepad ++ ? Sublime for every one?
 3. Command line?
 
