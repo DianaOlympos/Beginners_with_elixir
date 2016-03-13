@@ -13,7 +13,6 @@ You will install Elixir 1.2.3. Any previous release will not work !
 
 On the http://elixir-lang.org/install.html#windows we can download the installer. Then launch it and follow the instructions. You can now go launch a command line (Appendix A) and by typing the following instructions, you should see that result.
 
-    ```Elixir
     Microsoft Windows [version 10.0.10586]
     (c) 2015 Microsoft Corporation. Tous droits réservés.
 
@@ -21,14 +20,12 @@ On the http://elixir-lang.org/install.html#windows we can download the installer
     Eshell V7.2.1  (abort with ^G)
     Interactive Elixir (1.2.3) - press Ctrl+C to exit (type h() ENTER for help)
     iex(1)>
-    ```
 
 ### Ubuntu
 On Ubuntu you will want to go to http://elixir-lang.org/install.html#unix-and-unix-like and use the Ubuntu part. In your command line, you will type the following instructions.
 
-    ```bash
     //to update
-    ```
+
 
 
 ### Mac
