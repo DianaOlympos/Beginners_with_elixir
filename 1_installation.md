@@ -15,7 +15,6 @@ On the http://elixir-lang.org/install.html#windows we can download the installer
 
     Microsoft Windows [version 10.0.10586]
     (c) 2015 Microsoft Corporation. Tous droits réservés.
-
     >iex.bat
     Eshell V7.2.1  (abort with ^G)
     Interactive Elixir (1.2.3) - press Ctrl+C to exit (type h() ENTER for help)
