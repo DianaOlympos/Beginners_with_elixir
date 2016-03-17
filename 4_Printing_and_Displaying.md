@@ -26,7 +26,7 @@ So we wrote in a file, we typed an incantation on the command line and the compu
 File which name end with a `.exs` are what we call **Elixir script**. They are simple program that are read by the computer and tell him how to act. Latter we may move to more complex things, but for now your code will be in a single file for each lessons. So they will be script written in a `.exs` file.
 Then we typed something in the command line. By typing `elixir ex1.exs` we told the command line to search elixir on our computer, give it the script `ex1.exs` and let elixir read and act following the code we typed. That is how we are going to work in all the following lessons.
 
-So what did our code did? Well let's look at it. We wrote IO.puts. That is telling to the computer "Write the things that follow on the console". So it took what was following and printed it. Yeah you made a computer print words !
+So what did our code did? Well let's look at it. We wrote `IO.puts`. That is telling to the computer "Write the things that follow on the console". So it took what was following and printed it. Yeah you made a computer print words !
 
 ##Exercises
 
