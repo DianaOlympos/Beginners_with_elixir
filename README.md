@@ -13,6 +13,10 @@ It depends of a lot of things. The thing we want to emphasize is that it is diff
 
 Nothing. This course is aimed at total beginners. We only assume that you know some basic command line command, but we also provide a lesson about them (Appendix A, to steal from LPTHW ?).
 
+## Do i need XXX to do that ?
+
+This book should work in nearly every computer you may have. We will explain how to install things in various OS and the book should work the same. You can use the setup and computer you are familiar with to do it. It will work. Latter you may want to switch to another computer or another OS. That will not be a problem. But stick to what you know for now. Programming can be challenging and you will feel far better on a computer you know.
+
 ## How to use that course
 
 Just follow each lessons in order. They are meant to build on the previous one.
