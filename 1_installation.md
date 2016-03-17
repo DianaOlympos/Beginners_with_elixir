@@ -30,6 +30,9 @@ On Ubuntu you will want to go to http://elixir-lang.org/install.html#unix-and-un
 ### Mac
 To be written
 
+##Text editor
+    Which one? Easy simple one. but no elixir on them. Maybe all on Sublime ?
+
 ##In details
 So what happened ? What is that Elixir and what is that Erlang ?
 
