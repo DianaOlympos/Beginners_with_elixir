@@ -7,50 +7,52 @@
 
 1. Installing: asdf for linux, brew for osX, installer windows ?
 2. Text editor: gedit? Sublime? Notepad ++ ? Sublime for every one?
-3. Command line?
 
 ##Discovery, Playing
-4. .exs, script files
-5. Printing
-6. Comments
-7. Numbers + math
-8. Variable
-9. Printing var : interpolation
-10. A bit more about printing?
-11. User input?
-12. Modules : import
-13. Files
-14. Functions
-15. Again about function : returning something
-16. Reading some code. Go read some code
+~~3. .exs, script files~~
+4. Printing
+5. Comments
+8. Numbers + math
+9. Variable
+10. Printing var : interpolation
+11. A bit more about printing?
+12. User input?
+13. Modules : import
+14. Files
+15. Functions
+16. Again about function : returning something
+17. Reading some code. Go read some code
 
 ##Urgh Some real stuff there
 
-17. Creating a module and using it with iex
-18. Fixing a code
-19. Pattern matching
-20. Using pattern matching with multiple function head/body
-21. List
-22. Recursion
+18. Creating a module and using it with iex
+19. Fixing a code
+20. Pattern matching
+21. Using pattern matching with multiple function head/body
+22. List
+23. Recursion
 
 ##Let's make a break
 
-23. Calling a different function
-24. Pipe
-25. Repeat all that. Again.
-26. Fold/mapping on list with named function
-27. Anonymous function
-28. Using anonymous function on Mapping
+24. Calling a different function
+25. Pipe
+26. Repeat all that. Again.
+27. Fold/mapping on list with named function
+28. Anonymous function
+29. Using anonymous function on Mapping
 
 ## Typeessssss and other advanced topic.
 
-29. Map type
-30. Booleans and Boolean logic. If/Cond
-31. Learning about module/Namespace/etc.
-32. Protocol/Behaviours?
-33. Mix and projects? (dependency and hex)
-34. Tests!
-35. Web/ phoenix? Or OTP? Or Process?
+30. Map type
+31. Booleans and Boolean logic. If/Cond
+32. Learning about module/Namespace/etc.
+33. Protocol/Behaviours?
+34. Mix and projects? (dependency and hex)
+35. Tests!
+36. Web/ phoenix? Or OTP? Or Process?
 
 ##Random with no place.
 Where to put Atoms and Tuples? (Probably coming hands in hands. With Keyword list)
+
+##Appendix
+A. Command Line
