@@ -31,18 +31,20 @@ On Ubuntu you will want to go to http://elixir-lang.org/install.html#unix-and-un
 To be written
 
 ##Text editor
-    Which one? Easy simple one. but no elixir on them. Maybe all on Sublime ?
+    Which one? Notepad++ is an easy simple one. but no elixir on them. Maybe all on Sublime ?
 
 ##In details
 So what happened ? What is that Elixir and what is that Erlang ?
 
 Erlang is a language that go back to the middle of the 1980s. It was written to solve a couple of really specific problems. It is based around a Virtual Machine. It is a specific program that run on your computer and understand the Erlang code you give him. It follows that code to make things happen on your computer.
 
+_insert a diagram of OS->VM->code_
+
 Why use a Virtual Machine and not directly give the code to the computer? Because different computer works differently. By adding a layer between our code and the computer, we can make a code that will work everywhere. Instead of adapting our code to the specificities of each computers, we can write code for the Virtual Machine. Then we only have to adapt the Virtual Machine to different computers.
 
 The Virtual Machine of the Erlang coding language is known as the BEAM.
 
 So why do we have to install it? We are learning Elixir, not Erlang ! Well Erlang is solving a lot of problems and is an interesting language, but it is a language from the 1980s. It is not really easy to use and some of the choice that were made are not really modern. But the philosophy behind it is really powerful.
-So a couple of programmers decided to create Elixir. A language that run on the BEAM just like an Erlang program, but that would have all the nice and powerful things that we invented between the creation of Erlang and now.
+So José Valim, a brazilian programmer decided to create Elixir. A language that run on the BEAM just like an Erlang program, but that would have all the nice and powerful things that we invented between the creation of Erlang and now.
 
 So how does it works ? We write Elixir code. Then the Elixir program we installed will translate it into a code the BEAM will understand. And then the BEAM will run it. That is why we installed Erlang. Elixir need the BEAM to work.
